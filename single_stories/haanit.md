@@ -16,7 +16,7 @@ Walk left and interact with the Headman.
 | Fledgling Hunter | ??? | 1 |  ![](https://raw.githubusercontent.com/speedfuns/octopath/master/img/weapons/sword.png) ![](https://raw.githubusercontent.com/speedfuns/octopath/master/img/weapons/polearm.png) ![](https://raw.githubusercontent.com/speedfuns/octopath/master/img/unknown.png) ![](https://raw.githubusercontent.com/speedfuns/octopath/master/img/unknown.png) ![](https://raw.githubusercontent.com/speedfuns/octopath/master/img/unknown.png) | 20 | 3 | 2 | Herb of Light |
 
 - Hit twice with Linde.
-- If Linde uses Sweep on turn 1, then boost her for turn 2.*
+- If Linde uses Sweep on turn 1, then boost her for turn 2.
 
 Head west to Path to the Whisperwood.
 
