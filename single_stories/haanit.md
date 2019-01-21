@@ -10,8 +10,8 @@ Walk left and interact with the Headman
 
 | Provoke | Leaves | EXP |  JP | Drops |
 | :-- | --: | --: | --: | :-- |
-| Fledgling Hunter | $20 (+ $2) | 3 (+ 1) | 2 | 1x Healing Grape |
-| Fledgling Hunter | $20 (+ $2) | 3 (+ 1) | 2 | 1x Herb of Light |
+| **Fledgling Hunter** | $20 (+ $2) | 3 (+ 1) | 2 | 1x Healing Grape |
+| **Fledgling Hunter** | $20 (+ $2) | 3 (+ 1) | 2 | 1x Herb of Light |
 
 > **Strategy**: Hit twice with Linde. If Linde uses Sweep on turn 1, then boost her for turn 2.
 
@@ -22,4 +22,4 @@ Head west to Path to the Whisperwood
 
 | Encounter | Shield Points | Weaknesses |
 | :-- | --: | :-- |
-| Marmot | 1 | ![](https://raw.githubusercontent.com/speedfuns/octopath/master/img/weapons/bow.png) 
+| Marmot | 1 | ![](https://raw.githubusercontent.com/speedfuns/octopath/master/img/weapons/bow.png) ![](https://raw.githubusercontent.com/speedfuns/octopath/master/img/unkown.png) ![](https://raw.githubusercontent.com/speedfuns/octopath/master/img/unkown.png) | 
