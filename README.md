@@ -7,3 +7,5 @@
 [Damage Formula & Skill Effects](https://docs.google.com/spreadsheets/d/1ck0iKPEonQqFW73HUo6uTKJJTMxCtJ4HifT7SLVeTHk/edit#gid=1689888846)
 
 [Various Lists Spreadsheet](https://docs.google.com/spreadsheets/d/1tPeKljH3OrkuoPXN3xY8HIEDUrV9_AhtXdbMgp8ctOU/edit#gid=1990308354)
+
+Images sourced from the [Octopath Wikia](http://octopathtraveler.wikia.com/).
