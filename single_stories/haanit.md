@@ -22,4 +22,4 @@ Head west to Path to the Whisperwood
 
 | Encounter | Shield Points | Weaknesses |
 | :-- | --: | :-- |
-| Marmot | 1 | ![](https://raw.githubusercontent.com/speedfuns/octopath/master/img/weapons/bow.png) ![](https://raw.githubusercontent.com/speedfuns/octopath/master/img/unkown.png) ![](https://raw.githubusercontent.com/speedfuns/octopath/master/img/unkown.png) | 
+| Marmot | 1 | ![](https://raw.githubusercontent.com/speedfuns/octopath/master/img/weapons/bow.png) ![](https://raw.githubusercontent.com/speedfuns/octopath/master/img/unknown.png) ![](https://raw.githubusercontent.com/speedfuns/octopath/master/img/unknown.png) | 
